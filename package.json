@@ -1,0 +1,22 @@
+{
+  "name": "sberbank",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "cd frontend && npm i && npm run build",
+    "start": "cd backend && npm i && npm run start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rocky756/Sber-test-task.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rocky756/Sber-test-task/issues"
+  },
+  "homepage": "https://github.com/Rocky756/Sber-test-task#readme"
+}
